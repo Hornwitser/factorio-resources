@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Factorio Resources
 
-You can use the [editor on GitHub](https://github.com/Hornwitser/factorio-resources/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A collection of links to various resources and communites for Factorio that I have found.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Official Resources
 
-### Markdown
+You probably know of all of these, but I've added them here for completeness sake.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [factorio.com](https://factorio.com/) - Start here
+- [factorio.com/blog](https://factorio.com/blog/) - Home to the Factorio Friday Facts series which offer a lot of deep insights into the game
+- [wiki.factorio.com](https://wiki.factorio.com/) - Encyclopedia on all things in-game
+- [lua-api.factorio.com](https://lua-api.factorio.com/) - Lua interface documentation (the wiki also contains some documentation)
+- [forums.factorio.com](https://forums.factorio.com/) - Discuss the game on a traditional internet forum
+- [mods.factorio.com](https://mods.factorio.com/) - Mod portal for the game (the forum also has a mods section)
 
-```markdown
-Syntax highlighted code block
+You can buy the game directly on [factorio.com](https://www.factorio.com/buy), on [Steam](https://store.steampowered.com/app/427520/Factorio/), on [gog.com](https://www.gog.com/game/factorio) or on [Humble Bundle](https://www.humblebundle.com/store/factorio)
 
-# Header 1
-## Header 2
-### Header 3
+## Resources
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hornwitser/factorio-resources/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Factorio Cheat Sheet](https://factoriocheatsheet.com/) - Useful tips and short hand references for playing
+- [Factorio whiteboard](https://combe15.github.io/factorio-whiteboard/) - Repository of Factorio related content anyone can contribute to
